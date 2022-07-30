@@ -1,0 +1,17 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		
+	int height = 170;
+	
+if(height>160)
+{
+	System.out.println("It has been accepted");}
+
+else if(height<160)
+{
+	System.out.println("Not accepted");}
+	}
+}
